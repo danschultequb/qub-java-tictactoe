@@ -1,7 +1,7 @@
 {
   "publisher": "qub",
   "project": "qub-java-tictactoe",
-  "version": "0.1.2",
+  "version": "0.1.12",
   "java": {
     "mainClass": "qub.TicTacToe",
     "shortcutName": "tictactoe",
@@ -9,7 +9,7 @@
       {
         "publisher": "qub",
         "project": "qub-java",
-        "version": "0.2.2"
+        "version": "^0.2.6"
       }
     ]
   }
